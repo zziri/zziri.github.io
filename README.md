@@ -3,10 +3,12 @@ contact jihzang@gmail.com
 
 ## 경험
 ### 네이버웹툰
-기간 2021.12 ~ 현재
-부서 KW Server Tech
-직무 Software Engineer
-기술 Java, Spring, Javascript, Typescript, React, MySQL, JPA, MyBatis
+| 항목 | 내용 |
+|------|------|
+| 기간 | 2021.12 ~ 현재 |
+| 부서 | KW Server Tech |
+| 직무 | Software Engineer |
+| 기술 | Java, Spring, Javascript, Typescript, React, MySQL, JPA, MyBatis |
 
 #### 네이버웹툰
 - 국내 웹툰 컨텐츠를 사용자에게 제공하는 서비스 개발
@@ -16,12 +18,13 @@ contact jihzang@gmail.com
 - 만우절 이벤트 컨텐츠배너 영구노출화
 - redis pipeline을 통해 통계대시보드 '오늘 웹툰 현황' 페이지 로딩 성능 개선
 
-
 ### 삼성전자
-기간 2019.08 ~ 2021.11
-부서 System Power
-직무 Software Engineer
-기술 C, Linux kernel
+| 항목 | 내용 |
+|------|------|
+| 기간 | 2019.08 ~ 2021.11 |
+| 부서 | System Power |
+| 직무 | Software Engineer |
+| 기술 | C, Linux kernel |
 
 #### 갤럭시
 - 글로벌 안드로이드 스마트폰 제품 개발
