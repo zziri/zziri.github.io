@@ -1,5 +1,7 @@
 ---
 title: "406 Not Acceptable HttpMediaTypeNotAcceptableException"
+categories:
+  - IT
 ---
 
 Spring Boot 기반 프로젝트를 하면서 406 Not Acceptable HttpMediaTypeNotAcceptableException 에러를 만났었습니다
