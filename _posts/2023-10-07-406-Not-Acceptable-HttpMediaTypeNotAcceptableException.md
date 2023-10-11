@@ -9,7 +9,7 @@ Spring Boot 기반 프로젝트를 하면서 406 Not Acceptable HttpMediaTypeNot
 별거 안했는데 왜 406 에러를 Response 했을까요..??
 
 
-{% raw %}![alt](https://raw.githubusercontent.com/zziri/zziri.github.io/main/assets/images/2023-10-07/img1.png){% endraw %}
+{% include figure image_path="/assets/images/2023-10-07/img1.png" alt="" caption="" %}
 평범한 요청인데 406 Error Response 를 하고 있습니다
 
 
@@ -69,7 +69,7 @@ public class ResponseDto <T> {
 ```
 
 
-{% raw %}![alt](https://raw.githubusercontent.com/zziri/zziri.github.io/main/assets/images/2023-10-07/img2.png){% endraw %}
+{% include figure image_path="/assets/images/2023-10-07/img2.png" alt="" caption="" %}
 이제 정상적으로 Response 되는군요
 
 
