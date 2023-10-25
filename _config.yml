@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "i-am-groot"
+title                    : "I am groot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "zziri"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "zziri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person?"
+  bio              : ""
   location         : "Republic of Korea"
   email            :
   links:
